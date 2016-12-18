@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Steam</string>
+    <string name="action_settings">Settings</string>
+    <string name="edtPrecio">Prize</string>
+    <string name="edtNombre">Name</string>
+    <string name="edtStock">Stock</string>
+    <string name="btnAnadir">Add</string>
+    <string name="opcEdit">Edit</string>
+    <string name="opcDel">Delete</string>
+    <string name="tituloDialogo">Are you sure you want delete this?</string>
+    <string name="si">yes</string>
+    <string name="no">no</string>
+    <string name="txtHeader">Options</string>
+    <string name="editar">Edit</string>
+    <string name="tituloDialogoAll">Are you sure you really want delete everything?</string>
+    <string name="edtUsu" />
+    <string name="edtUsuHint">Name</string>
+    <string name="txtUsu">User:</string>
+    <string name="txtPass">Pass:</string>
+    <string name="btnLogin">Sign In</string>
+    <string name="tituloDialogoLogout">Are you sure you want log out?</string>
+    <string name="edtPass">Password</string>
+    <string name="cards">Cards</string>
+    <string name="sports">Sports</string>
+    <string name="adventure">Adventure</string>
+    <string name="loginToast">Complete both fields.</string>
+</resources>
